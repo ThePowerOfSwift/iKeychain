@@ -17,7 +17,7 @@ iKeychain is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "iKeychain"
+pod "iKeychain", :git => 'https://github.com/ThePowerOfSwift/iKeychain.git'
 ```
 
 ## Author

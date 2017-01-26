@@ -1,0 +1,22 @@
+{
+  "name": "iKeychain",
+  "version": "0.1.0",
+  "summary": "A short description of iKeychain.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/iKeychain",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mihail": "info@mihailsalari.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/iKeychain.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iKeychain/Classes/**/*"
+}

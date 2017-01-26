@@ -1,0 +1,16 @@
+PODS:
+  - iKeychain (0.1.0)
+
+DEPENDENCIES:
+  - iKeychain (from `../`)
+
+EXTERNAL SOURCES:
+  iKeychain:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iKeychain: 7fe5105efdec0e4aa8d41b12ec2c44f020299c66
+
+PODFILE CHECKSUM: ea72e8d4f05f3cffc5f246512964e5bab053c889
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module Pods_iKeychain_Example {
+  umbrella header "Pods-iKeychain_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
